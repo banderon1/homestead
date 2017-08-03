@@ -1,7 +1,7 @@
+.idea
 /vendor
 /.vagrant
 phpunit.xml
-/Homestead.yaml
 /Homestead.json
 /after.sh
 /aliases
