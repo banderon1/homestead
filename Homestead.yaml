@@ -16,6 +16,7 @@ folders:
 sites:
     - map: homestead.app
       to: /home/vagrant/Code/public
+      schedule: true
     - map: ape.homestead.app
       to: /home/vagrant/Code/public
     - map: 0.ape.homestead.app
